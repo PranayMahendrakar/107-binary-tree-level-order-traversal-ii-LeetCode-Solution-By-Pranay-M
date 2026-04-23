@@ -7,3 +7,4 @@
 - [2026-04-23T08:50:55Z] perf: optimize loop for better performance
 - [2026-04-23T16:24:04Z] feat: add helper utility function
 - [2026-04-23T08:34:42Z] test: add unit tests for core module
+- [2026-04-23T13:44:48Z] fix: handle null pointer exception
