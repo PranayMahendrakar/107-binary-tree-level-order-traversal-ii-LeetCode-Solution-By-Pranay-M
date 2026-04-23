@@ -9,3 +9,4 @@
 - [2026-04-23T08:34:42Z] test: add unit tests for core module
 - [2026-04-23T13:44:48Z] fix: handle null pointer exception
 - [2026-04-23T10:53:26Z] feat: add helper utility function
+- [2026-04-23T20:23:36Z] fix: resolve edge case in input validation
